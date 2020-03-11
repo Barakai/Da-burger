@@ -3,7 +3,7 @@ USE burger_db;
 insert into burger
   (burger_name)
 values
-  ('sambusa Burgers');
+  ('  Buffalo Burgers');
 insert into burger
   (burger_name)
 values

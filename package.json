@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Harun9/Burgers.git"
+    "url": "git+https://github.com/Baraka/Burgers.git"
   },
   "author": "harun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Harun9/Burgers/issues"
+    "url": "https://github.com/Barakai/Burgers/issues"
   },
-  "homepage": "https://github.com/Harun9/Burgers#readme",
+  "homepage": "https://github.com/Barakai/Burgers#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
